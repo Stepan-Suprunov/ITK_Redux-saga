@@ -1,0 +1,12 @@
+.app {
+    text-align: center;
+    padding-top: 20%;
+}
+
+.getUsersBtn {
+    font-size: 24px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: #50009a;
+    color: #d5c5c5;
+}
